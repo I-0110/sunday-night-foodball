@@ -1,12 +1,12 @@
 .shape {
   height: 0;
   width: 0;
-  border-bottom: 30px solid #0E7490;
-  border-left: 20px solid transparent;
-  border-right: 20px solid transparent;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 30px solid #E31837;
   transition: filter 0.3s ease;
 }
 
 .shape:hover {
-  filter: drop-shadow(0 4px 6px #0E7490);
+  filter: drop-shadow(0 4px 6px #8A1624);
 }
